@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6969
     wikipedia: http://en.wikipedia.org/wiki/Peregrin_Obdr%C5%BE%C3%A1lek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16843#Cvi-en--mali-k-ch-ve-svat-m-n-bo-enstv--k-es-ansko-katolick-m
 gutenberg_issued: '2005-10-09'
 gutenberg_type: Text
 identifiers:
