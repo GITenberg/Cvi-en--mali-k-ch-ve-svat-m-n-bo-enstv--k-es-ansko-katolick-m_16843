@@ -1,0 +1,28 @@
+_repo: Cvi-en--mali-k-ch-ve-svat-m-n-bo-enstv--k-es-ansko-katolick-m_16843
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Obdržálek, Peregrin
+    alias: Obdrzalek, Peregrin
+    birthdate: 1825
+    deathdate: 1891
+    gutenberg_agent_id: '6969'
+    url: http://www.gutenberg.org/2009/agents/6969
+    wikipedia: http://en.wikipedia.org/wiki/Peregrin_Obdr%C5%BE%C3%A1lek
+description: ''
+gutenberg_issued: '2005-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16843'
+language: cs
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Catechisms'
+title: Cvičení maličkých ve svatém náboženství křesťansko-katolickém
+url: http://www.gutenberg.org/ebooks/16843
